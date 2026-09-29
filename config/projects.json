@@ -32,6 +32,7 @@
       "daisyUI"
     ],
     "imageUrl": "/images/projects/chat-app.png",
+    "liveUrl": "https://mern-chat-frontend-ten.vercel.app/login",
     "featured": true,
     "githubUrl": "https://github.com/ayushh-11/mern_chat-frontend",
     "backendUrl": "https://github.com/ayushh-11/mern_chat-backend"
