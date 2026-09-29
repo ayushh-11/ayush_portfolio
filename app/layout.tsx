@@ -17,6 +17,9 @@ const personalInfo = getPersonalInfo();
 export const metadata: Metadata = {
   title: `${personalInfo.name} - ${personalInfo.title}`,
   description: personalInfo.bio,
+  icons: {
+    icon: { url: '/favicon.svg', type: 'image/svg+xml' },
+  },
 };
 
 export default function RootLayout({
