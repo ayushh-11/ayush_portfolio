@@ -1,0 +1,69 @@
+[
+  {
+    "id": "everest-job",
+    "title": "Everest Job",
+    "description": "A MERN job portal connecting candidates and companies.",
+    "longDescription": "Companies can post jobs and update application statuses. Candidates can apply with a CV and receive email notifications. Redux manages client-side state.",
+    "tags": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Redux Toolkit",
+      "Tailwind CSS",
+      "Nodemailer"
+    ],
+    "imageUrl": "/images/projects/everest-job.png",
+    "featured": true,
+    "githubUrl": "https://github.com/ayushh-11/EverestJob"
+  },
+  {
+    "id": "realtime-chat",
+    "title": "Realtime Chat",
+    "description": "A real-time messaging application built with the MERN stack.",
+    "longDescription": "User registration and instant messaging powered by Socket.IO, with a React frontend styled using Tailwind CSS and daisyUI.",
+    "tags": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Socket.IO",
+      "Tailwind CSS",
+      "daisyUI"
+    ],
+    "imageUrl": "/images/projects/chat-app.png",
+    "featured": true,
+    "githubUrl": "https://github.com/ayushh-11/mern_chat-frontend",
+    "backendUrl": "https://github.com/ayushh-11/mern_chat-backend"
+  },
+  {
+    "id": "go-food",
+    "title": "Food Ordering System",
+    "description": "Go Food \u2014 a food ordering application built with the MERN stack.",
+    "longDescription": "A React frontend styled with Bootstrap, connected to a Node.js and Express backend with MongoDB persistence.",
+    "tags": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Bootstrap",
+      "Axios"
+    ],
+    "imageUrl": "/images/projects/go-food.png",
+    "featured": true,
+    "githubUrl": "https://github.com/ayushh-11/gofood-mern"
+  },
+  {
+    "id": "hotel-booking",
+    "title": "Hotel Booking System",
+    "description": "A full-stack hotel booking application.",
+    "longDescription": "A hotel booking system built with React, Express, and MongoDB.",
+    "tags": [
+      "React",
+      "Express",
+      "MongoDB"
+    ],
+    "imageUrl": "/images/projects/hotel-booking.png",
+    "featured": true
+  }
+]

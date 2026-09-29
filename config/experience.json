@@ -1,0 +1,23 @@
+[
+  {
+    "id": "idealaya",
+    "company": "Idealaya",
+    "position": "Web Developer Intern",
+    "duration": "Aug 2025 - Nov 2025",
+    "startDate": "2025-08-01",
+    "endDate": "2025-11-30",
+    "description": "Completed a three-month web development internship at Idealaya.",
+    "technologies": [],
+    "type": "work"
+  },
+  {
+    "id": "bca",
+    "company": "Patan Multiple Campus, Lalitpur",
+    "position": "Bachelor of Computer Application",
+    "duration": "Completed",
+    "startDate": "",
+    "description": "Completed a Bachelor of Computer Application.",
+    "technologies": [],
+    "type": "education"
+  }
+]
